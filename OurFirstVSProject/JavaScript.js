@@ -8,6 +8,10 @@
         }
     }
     return strArray.join("");
+
+
+
+    
 }
 
 var result = LetterChanges("hello*3");
